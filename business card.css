@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.context{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: auto;
+    background: hsla(119, 19%, 42%, 1);
+    padding: 20px;
+    margin-top: 20px;
+   color: #2b2839 ;
+   border-bottom: 6px solid 
+   rgba(0, 0, 4, 0.539);
+   border-radius: 4px;
+}
+img{
+    width: 150px;
+}
+.red-circle{
+   background:  #BC002D;
+   border-radius: 100px;
+   height: 150px; 
+   width: 150px;
+   margin: 40px auto;
+}
